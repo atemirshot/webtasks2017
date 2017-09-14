@@ -1,0 +1,14 @@
+body{
+	background-color: #d2cece;
+}
+table{
+	align-items: center;
+	 font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+ 
+.img{
+	width: 300px;
+	height: 100px;
+}
